@@ -1,0 +1,9 @@
+theme = 'ananke'
+title = "A lazy blog, old stuff"
+languageCode = 'en-us'
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
