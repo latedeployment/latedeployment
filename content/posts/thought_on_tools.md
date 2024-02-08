@@ -1,7 +1,6 @@
 ---
 title: "Thoughts on shell tools"
 date: 2024-02-07T18:41:07+02:00
-draft: true
 ---
 Below a list of points I believe should be handled when writing shell tools.
 
