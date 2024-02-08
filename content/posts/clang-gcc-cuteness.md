@@ -1,7 +1,6 @@
 ---
 title: "Clang GCC Cuteness"
 date: 2024-09-19T19:50:43+02:00
-draft: true
 tags: ['clang', 'gcc']
 ---
 

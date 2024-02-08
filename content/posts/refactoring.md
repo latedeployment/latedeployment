@@ -1,7 +1,6 @@
 ---
 title: "Long Time Ago Refactoring Ideas"
 date: 2024-02-07T16:13:26+02:00
-draft: true
 tags: ['C', 'CMake', 'windows', 'linux', 'macos', 'kernel']
 ---
 

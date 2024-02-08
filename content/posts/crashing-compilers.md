@@ -1,7 +1,6 @@
 ---
 title: "Crashing Compilers"
 date: 2015-11-11T19:51:04+02:00
-draft: true
 tags: ['clang', 'gcc', 'python']
 ---
 

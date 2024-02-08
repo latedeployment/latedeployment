@@ -1,8 +1,7 @@
 ---
 date: 2015-02-19T19:50:21+02:00
-draft: true
 title: OSX IOKit sleep notification 
-tags: ['IOKit', 'kernel', 'macOS']
+tags: ['IOKit', 'kernel', 'macOS', 'osx']
 ---
 
 ## Get sleep notification in your IOKit kext

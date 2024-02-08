@@ -1,7 +1,6 @@
 ---
 title: "Linux User Time"
 date: 2017-04-18T19:50:53+02:00
-draft: true
 tags: ['performance']
 ---
 

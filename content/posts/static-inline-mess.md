@@ -1,7 +1,6 @@
 ---
 title: "Static Inline Mess"
 date: 2015-09-19T19:50:58+02:00
-draft: true
 ---
 
 It's a known fact (at least to me), that `static inline` functions in C++ will generate multiple instances of a function if used in a different translation unit (a file, why call it differently?). 

@@ -1,7 +1,7 @@
 ---
 title: "Nice Programming Languages"
 date: 2023-05-12T16:16:07+02:00
-draft: true
+tags: ['zig', 'nim', 'elixir']
 ---
 # Some programming languages
 

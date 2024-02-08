@@ -1,7 +1,6 @@
 ---
 title: "Run on the weird platforms"
 date: 2024-02-07T21:49:33+02:00
-draft: true
 tags: ['linux', 'freebsd', 'openbsd']
 ---
 

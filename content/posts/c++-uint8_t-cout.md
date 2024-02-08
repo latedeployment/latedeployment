@@ -1,7 +1,6 @@
 ---
 title: "C++ uint8_t std::cout"
 date: 2015-11-20T19:51:17+02:00
-draft: true
 ---
 So, I just wanted to print a loop of numbers from 0 to 100 with `C++` and `std::cout`.
 

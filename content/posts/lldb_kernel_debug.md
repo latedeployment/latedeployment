@@ -1,7 +1,6 @@
 ---
 title: "Old macOS kernel debugging with LLDB"
 date: 2016-11-04T15:36:58+02:00
-draft: true
 ---
 **Note: This won't work anymore, Apple has pretty much disabled any ability to work with kernel extensions. This is just an old blog post.**
 **Kext are no longer supported, use System Extensions and similar approach**

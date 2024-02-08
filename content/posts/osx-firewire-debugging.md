@@ -1,10 +1,8 @@
 ---
 layout: post
 title: OSX Firewire kernel debugging
-category: OSX
-tags: ['firewire', 'kernel']
+tags: ['firewire', 'kernel', 'osx']
 date: 2015-02-18T16:13:26+02:00
-draft: true
 ---
 
 Introduction

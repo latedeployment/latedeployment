@@ -1,8 +1,7 @@
 ---
 date: 2015-02-19T19:50:33+02:00
-draft: true
 title: OSX kernel simple operations
-tags: ['mach', 'xnu', 'kernel', 'osx']
+tags: ['mach', 'xnu', 'kernel', 'osx', 'macOS']
 ---
 
 
