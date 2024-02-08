@@ -28,7 +28,7 @@ While this is kind of an ugly solution, it makes life much easier.
 
 We create a new file called *OurFeatures.h*
 
-Each feature will be assigned with a new #define * __WITH_FEATURE_XXX__ 1*
+Each feature will be assigned with a new `#define __WITH_FEATURE_XXX__ 1`
 
 Code will be written as follows: 
 
