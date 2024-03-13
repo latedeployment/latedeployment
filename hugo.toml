@@ -1,4 +1,5 @@
-theme = 'ananke'
+theme = "hyde"
+# theme = 'ananke'
 title = "A lazy blog, old stuff"
 languageCode = 'en-us'
 
