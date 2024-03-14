@@ -1,7 +1,6 @@
 ---
 title: "6 Things to Do With Docker"
 date: 2024-03-12T13:24:47+02:00
-draft: true
 ---
 ## 1. Operate on root files without sudo password
 
