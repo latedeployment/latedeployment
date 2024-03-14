@@ -31,7 +31,7 @@ docker run --rm --name nosudo \
 
 ## 3. Block specific system calls using seccomp filters
 
-A `seccomp` filter is the Linux foundation for all the sandboxes running under Linux, it's possible to do it own your own. 
+A `seccomp` filter is the Linux foundation for all the sandboxes running under Linux, it's possible to do it on your own. 
 
 You download a default seccomp filter from somewhere, like [this](https://raw.githubusercontent.com/docker/labs/master/security/seccomp/seccomp-profiles/default.json), 
 then modify the list accordingly. 
@@ -67,7 +67,7 @@ docker run --rm --name nosudo \
 
 The container cannot download anything due to `connect()` syscall blocked. 
 
-What you'd want now is some sort of an allow list or a deny list of some sort in the `sockaddr*` argument of `connect()`, but this is not possible due to seccomp limitations. 
+What you'd want now is some sort of an allow list or a deny list in the `sockaddr*` argument of `connect()`, but this is not possible due to seccomp limitations. 
 
 ## 4. Have specific allow list of hosts on the container
 
@@ -94,7 +94,7 @@ Relevant `dnsmasq.conf` file
 address=/#/127.0.0.1
 {{< / highlight >}}
 
-Now this seems so silly, the configuration is emtpy... 
+Now this seems so silly, the configuration is empty... 
 
 Well `dnsmasq` uses `/etc/hosts` file and **we control it from `--add-host` argument of `docker run`** 
 
@@ -129,7 +129,7 @@ docker run --dns=172.17.0.2 -it ubuntu
 {{< / highlight >}}
 
 
-## 5. A container is tar file, and tar files are polygots...
+## 5. A container is tar file, and tar files are polyglots...
 
 A `tar` file is file format which has enough space to actually be a an `ELF` file [ISO+TAR+ELF](https://sysfatal.github.io/polyglottar-en.html). 
 
