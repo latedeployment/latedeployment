@@ -1,7 +1,9 @@
 theme = "hyde"
 # theme = 'ananke'
-title = "A lazy blog, old stuff"
+title = "A lazy blog"
 languageCode = 'en-us'
+[params]
+    description = "Some stuff over the years, some stuff is new"
 
 [menus]
 [[menus.main]]
