@@ -68,6 +68,6 @@ void int_release(int** dest)
     free(*dest);
 }
 
-{{/ highlight >}}
+{{< / highlight >}}
 
 
