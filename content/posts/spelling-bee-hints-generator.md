@@ -7,7 +7,7 @@ I try to play the Spelling Bee game of The Times, and sometimes a single word ca
 
 Dumb tool, works though. 
 
-[relevant repo](https://github.com/latedeployment/sbphints).
+[Relevant repo](https://github.com/latedeployment/sbphints).
 
 Have fun. 
 
